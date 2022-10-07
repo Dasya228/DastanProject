@@ -1,0 +1,116 @@
+@media all and (max-width: 1700px) {
+  .class_email {
+    margin-left: 37%;
+    margin-top: 27%;
+  }
+  #part_work {
+    left: 296px;
+  }
+  #part_work2 {
+    left: 877px;
+  }
+  #part_work3 {
+    left: 1436px;
+  }
+}
+@media all and (max-width: 1600px) {
+  .class_email {
+    margin-left: 39%;
+    margin-top: 28%;
+  }
+  #part_work {
+    left: 281px;
+  }
+  #part_work2 {
+    left: 828px;
+  }
+  #part_work3 {
+    left: 1352px;
+  }
+  .classborderbox {
+    left: 306px;
+  }
+  .Timeline {
+    left: 268px;
+  }
+  .classborder {
+    left: 1064px;
+  }
+  .class_right {
+    left: 1070px;
+  }
+  .class_right2 {
+    left: 1070px;
+  }
+  .class_right3 {
+    left: 1070px;
+  }
+  .class_right4 {
+    left: 1070px;
+  }
+  #hoursimg {
+    left: 893px;
+  }
+  .services_list {
+    margin-left: -8%;
+  }
+  #header_3 {
+    left: 590px;
+  }
+}
+@media all and (max-width: 1440px) {
+  .classbutton2 {
+    position: relative;
+    left: 60px;
+  }
+  .navbar {
+    justify-content: center;
+    width: 104%;
+  }
+  .button_price {
+    position: absolute;
+    left: -7%;
+    top: 0;
+  }
+  .header_title {
+    left: 398px;
+  }
+  .header_desc {
+    left: 525px;
+  }
+  .class_email {
+    margin-left: 36%;
+    margin-top: 30%;
+  }
+  #overImage {
+    left: 290px;
+  }
+  #subtitle {
+    width: 410px;
+    left: 580px;
+  }
+  .subtitleIMG {
+    left: -6%;
+  }
+  .classPart2 {
+    width: 110%;
+  }
+  .part4 {
+    width: 110%;
+  }
+  #hoursimg {
+    top: 90px;
+  }
+  #part_work {
+    left: 259px;
+  }
+  #part_work2 {
+    left: 747px;
+  }
+  #part_work3 {
+    left: 1220px;
+  }
+  .classborderbox {
+    left: 270px;
+  }
+}
